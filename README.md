@@ -1,4 +1,4 @@
-# Dice-Roll
+# Roll Dice
 
 ## About
 
